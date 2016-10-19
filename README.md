@@ -2,8 +2,8 @@
 
 Operações sobre matrizes com CUDA
 
-Soma de matrizes.
+-Soma de matrizes.
 
-Multiplicações de matriz.
+-Multiplicações de matriz.
 
-Matriz transposta.
+-Matriz transposta.
